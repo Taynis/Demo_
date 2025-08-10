@@ -22,6 +22,25 @@
 			<ReuseSessions>AutoUse</ReuseSessions>
 			<SessionMaxAge>20</SessionMaxAge>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Operation uuid="baa788aa-1c40-4886-8929-ef956f330b3b">
+				<Properties>
+					<Name>nvd_help</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Nvd help</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<XDTOReturningValueType>xs:string</XDTOReturningValueType>
+					<Nillable>false</Nillable>
+					<Transactioned>false</Transactioned>
+					<ProcedureName>nvd_help</ProcedureName>
+					<DataLockControlMode>Managed</DataLockControlMode>
+				</Properties>
+				<ChildObjects/>
+			</Operation>
+		</ChildObjects>
 	</WebService>
 </MetaDataObject>

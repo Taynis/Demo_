@@ -53,7 +53,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
 			<Vendor>Фирма "1С"</Vendor>
-			<Version>3.1.11.228</Version>
+			<Version>3.1.11.228_0</Version>
 			<UpdateCatalogAddress>https://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
@@ -298,6 +298,7 @@
 			<Subsystem>ПодключаемыеОтчетыИОбработки</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<Subsystem>ТехнологияСервиса</Subsystem>
+			<Subsystem>НВД_Демо</Subsystem>
 			<StyleItem>АктуальнаяПодпискаЦвет</StyleItem>
 			<StyleItem>ВажнаяНадписьШрифт</StyleItem>
 			<StyleItem>ВидДняПроизводственногоКалендаряВоскресеньеЦвет</StyleItem>
@@ -2163,6 +2164,7 @@
 			<WebService>RemoteAdministrationOfExchange_2_1_6_1</WebService>
 			<WebService>RemoteAdministrationOfExchange_2_4_5_1</WebService>
 			<WebService>RemoteControl</WebService>
+			<WebService>НВД_WebСервис</WebService>
 			<HTTPService>exchange_dsl_1_0_0_1</HTTPService>
 			<HTTPService>Биллинг</HTTPService>
 			<HTTPService>ПередачаДанных</HTTPService>
@@ -3159,6 +3161,7 @@
 			<Catalog>ЯзыкиПечатныхФорм</Catalog>
 			<Catalog>Удалить_ДемоОбщиеСведения</Catalog>
 			<Catalog>УдалитьОчередьЗаданий</Catalog>
+			<Catalog>НВД_Тест</Catalog>
 			<Document>_ДемоЗаказПокупателя</Document>
 			<Document>_ДемоКорректировкаОстатковТоваровВМестахХранения</Document>
 			<Document>_ДемоНачислениеЗарплаты</Document>
